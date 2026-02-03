@@ -62,6 +62,14 @@ Each test warning indicates the presence of a type of misalignment. To troublesh
 
 ----
 
+# Project Structure Best Practices
+
+Document recommended dbt project directory layout and naming conventions (stg_/int_/mart patterns), and connect them to evaluator rules.
+
+[Read the Project Structure Guide →](project-structure-guide.md)
+
+---
+
 ## Limitations
 
 ### BigQuery and Databricks
